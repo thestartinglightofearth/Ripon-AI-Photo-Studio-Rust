@@ -36,7 +36,7 @@ No Python, no GPU, no extra DLLs. One `.exe`.
 
 ## Download
 
-**[Download the latest installer (Windows 10 / 11)](https://github.com/USERNAME/rust.riponaistudio/releases/latest)**
+**[Download the latest installer (Windows 10 / 11)](https://github.com/thestartinglightofearth/Ripon-AI-Photo-Studio-Rust/releases)**
 — get `rust.riponaistudio-Setup-<version>.exe` from the *Assets* list.
 
 ## Install
