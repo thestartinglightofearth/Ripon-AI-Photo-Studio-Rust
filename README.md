@@ -5,7 +5,12 @@ Everything for one photo happens on **one page**: background removal, head crop,
 print sheets — plus AI upscaling, face restore and an ID-card (NID) scanner-style tool.
 
 No Python, no GPU, no extra DLLs. One `.exe`.
+## Screenshots
 
+<p align="center">
+  <img src="shot_duet2.png" width="49%" alt="Duet Photo Studio"/>
+  <img src="shot_doc2.png" width="49%" alt="NID Document Tool"/>
+</p>
 ## Features
 
 **Passport / ID photo**
