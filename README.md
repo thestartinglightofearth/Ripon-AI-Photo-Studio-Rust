@@ -11,6 +11,7 @@ No Python, no GPU, no extra DLLs. One `.exe`.
   <img src="shot_duet2.png" width="49%" alt="Duet Photo Studio"/>
   <img src="shot_doc2.png" width="49%" alt="NID Document Tool"/>
 </p>
+
 ## Features
 
 **Passport / ID photo**
