@@ -147,12 +147,12 @@ Per model: **Download**, **Import file...** (if you downloaded it yourself), **D
 | Action | How |
 |---|---|
 | Zoom a picture | mouse wheel |
-| Move a zoomed picture | right mouse drag (or middle button) |
+| Move a zoomed picture | right mouse drag |
 | Undo / Redo | Ctrl+Z / Ctrl+Y |
 | Stop a brush / pen tool | Esc |
 | Close a Pen shape | click the orange first point, double-click, or Enter |
 | Remove last Pen point | Backspace |
-| Nudge a card on the A4 page | arrow keys (Shift = 10x) |
+| Nudge a card on the A4 page | arrow keys: 0.5 mm, Shift = 5 mm |
 | Open photo | Ctrl+O |
 
 ## Build from source
