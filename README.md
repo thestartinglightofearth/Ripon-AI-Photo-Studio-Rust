@@ -6,7 +6,7 @@ plus AI upscaling, face restore and an ID-card (NID) scanner-style tool.
 
 No Python, no GPU, no extra DLLs. One `.exe`. Your photos never leave your computer.
 
-![Edit photo](docs/screenshots/01-edit-photo.png)
+![Edit photo](01-edit-photo.png)
 
 ## Download and install
 
@@ -47,7 +47,7 @@ right = the finished result.
 Photo **A** and **B** are completely independent (own crop, colours, clean-up). Use **Pin as Photo A / B**, drag and
 resize each photo with the mouse, set the gap and alignment. **Undo / Redo** = Ctrl+Z / Ctrl+Y.
 
-![Duet](docs/screenshots/07-duet.png)
+![Duet](07-duet.png)
 
 #### Fixing the background by hand
 Press a tool, then paint / click **on the RESULT picture**. Scroll = zoom, right mouse drag = move, **Esc** = stop.
@@ -63,7 +63,7 @@ Press a tool, then paint / click **on the RESULT picture**. Scroll = zoom, right
   (everything outside is removed), and an **Edge feather** (0 = sharp cut, higher = soft blend).
   Undo shape / Clear shapes.
 
-![Pen tool](docs/screenshots/06-pen-tool.png)
+![Pen tool](06-pen-tool.png)
 
 ### 2. Print sheet
 Shows the real print sheet: A4, 4R, 5R, A3, Letter or a custom paper. Choose **Copies** (or **Fill the page**),
@@ -75,7 +75,7 @@ The line under the preview tells you how many photos fit.
 - **PDF / JPG / PNG** save the whole sheet. **Photo JPG / PNG** save a single photo.
 - **For online forms (KB limit)** — set pixel size and the maximum KB, then **Save JPG under limit**.
 
-![Print sheet](docs/screenshots/02-print-sheet.png)
+![Print sheet](02-print-sheet.png)
 
 ### 3. Document / NID
 For ID cards, NID, certificates and whole A4 / Legal pages that a customer sends as a phone picture.
@@ -91,7 +91,7 @@ For ID cards, NID, certificates and whole A4 / Legal pages that a customer sends
    X / Y / W / H in mm, **Auto arrange all**, **Fit page (keep shape)**. Zoom with the `-` / `+` / **Fit** buttons and the wheel.
 6. **Print page** or save the page as PDF / JPG / PNG at real size.
 
-![Document tool](docs/screenshots/04-document-nid.png)
+![Document tool](04-document-nid.png)
 
 ### 4. Batch print (many customers)
 Ten customers, two copies each? Put them all on **one** A4 sheet.
@@ -112,7 +112,7 @@ Ten customers, two copies each? Put them all on **one** A4 sheet.
 Background removal for the batch runs one photo at a time in the background — you can keep working, and one photo
 that fails does not stop the others.
 
-![Batch print](docs/screenshots/03-batch-print.png)
+![Batch print](03-batch-print.png)
 
 ### 5. AI Models
 Press **AI Models** (top right). Models are kept in `%LOCALAPPDATA%\RiponComputer\models\`
@@ -130,7 +130,7 @@ Per model: **Download**, **Import file...** (if you downloaded it yourself), **D
 **Download links are editable** (several per model, tried in order) — release links expire, so you can paste a new one.
 **Backup all models (.zip)** and **Restore from backup (.zip)** move everything to another computer.
 
-![AI Models](docs/screenshots/05-ai-models.png)
+![AI Models](05-ai-models.png)
 
 ---
 
